@@ -1,14 +1,10 @@
 # Hi 👋, I'm Jack Muir  
-**A passionate Full Stack Web Developer from the UK**  
-💻 **Specializing in Next.js, MERN Stack, and .NET**  
+**Software Engineer at Atreon**  
+💻 **Specialising in .NET**  
 
 ---
 
-## 🚀 About Me  
-- 🔭 Currently working on [Muir Technology](https://www.muirtechnology.co.uk/)  
-- 🌱 Learning **AWS Cloud Practitioner Certification**  
-- 👨‍💻 Check out my portfolio: [jackmuir.dev](https://jackmuir.dev/)  
-- 📫 Reach me at **jmuirbusiness@gmail.com**  
+- 📫 Reach me at **jmuirbusiness@gmail.com** 
 
 ---
 
@@ -19,11 +15,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
 
-### Tools & Platforms  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+### Tools & Platforms
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
